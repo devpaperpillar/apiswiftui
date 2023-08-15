@@ -1,58 +1,56 @@
-[
-    {
-        "fileTerbaru":[
-            {
-                "id": 1,
-                "name" : "Pitchdeck Health Insurance",
-                "minute": "2 minute ago"
-            },
-            {
-                "id": 2,
-                "name" : "Pitchdeck Health 2",
-                "minute": "4 minute ago"
-            },
-            {
-                "id": 3,
-                "name" : "Pitchdeck Health 3",
-                "minute": "5 minute ago"
-            },
-            {
-                "id": 4,
-                "name" : "Pitchdeck Health 4",
-                "minute": "7 minute ago"
-            },
-            {
-                "id": 5,
-                "name" : "Pitchdeck Health 5",
-                "minute": "12 minute ago"
-            }
-        ],
-        "musikTerbaru":[
-            {
-                "id": 1,
-                "name" : "Robert Louise - Only You",
-                "minute": "3:23"
-            },
-            {
-                "id": 2,
-                "name" : "Lantas - Juicy Lucy",
-                "minute": "3:40"
-            },
-            {
-                "id": 3,
-                "name" : "Separuh Aku - Noah",
-                "minute": "4:10"
-            },
-            {
-                "id": 4,
-                "name" : "Yang terdalam - Noah",
-                "minute": "3:00"
-            },
-            {
-                "id": 5,
-                "name" : "Sparkle - RADWIMPS",
-                "minute": "4:30"
-            }
-        ]
-    }
-]
+{
+    "fileTerbaru":[
+        {
+            "id": 1,
+            "name" : "Pitchdeck Health Insurance",
+            "minute": "2 minute ago"
+        },
+        {
+            "id": 2,
+            "name" : "Pitchdeck Health 2",
+            "minute": "4 minute ago"
+        },
+        {
+            "id": 3,
+            "name" : "Pitchdeck Health 3",
+            "minute": "5 minute ago"
+        },
+        {
+            "id": 4,
+            "name" : "Pitchdeck Health 4",
+            "minute": "7 minute ago"
+        },
+        {
+            "id": 5,
+            "name" : "Pitchdeck Health 5",
+            "minute": "12 minute ago"
+        }
+    ],
+    "musikTerbaru":[
+        {
+            "id": 1,
+            "name" : "Robert Louise - Only You",
+            "minute": "3:23"
+        },
+        {
+            "id": 2,
+            "name" : "Lantas - Juicy Lucy",
+            "minute": "3:40"
+        },
+        {
+            "id": 3,
+            "name" : "Separuh Aku - Noah",
+            "minute": "4:10"
+        },
+        {
+            "id": 4,
+            "name" : "Yang terdalam - Noah",
+            "minute": "3:00"
+        },
+        {
+            "id": 5,
+            "name" : "Sparkle - RADWIMPS",
+            "minute": "4:30"
+        }
+    ]
+}
